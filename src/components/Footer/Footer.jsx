@@ -72,7 +72,7 @@ const Footer = () => {
             <div className="social__links d-flex align-items-center gap-4 justify-content-end">
               <p className="m-0">Follow: </p>
               <span>
-                <Link to="https://github.com/Vinesh-24https://github.com/muhib160">
+                <Link to="https://github.com/Vinesh-24">
                   <i class="ri-github-line"></i>
                 </Link>
               </span>
